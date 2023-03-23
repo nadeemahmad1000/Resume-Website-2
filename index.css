@@ -1,0 +1,123 @@
+* {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.contents {
+    color: #002244;
+    padding-left: 32px;
+    padding-bottom: 32px;
+}
+
+#about {
+    padding: 0px 36px;
+    text-align: justify;
+}
+
+#heading1 {
+    color: #800808;
+    text-align: center;
+}
+
+.highlight {
+    color: navy;
+    font-weight: 600;
+}
+
+.name {
+    color: #E60026;
+    font-size: 17px;
+}
+
+.picture {
+    height: 128px;
+    width: 128px;
+    border: 2px solid #800808;
+    border-radius: 10px;
+}
+
+#heading2 {
+    color: #BA0021;
+}
+
+#interests {
+    color: #F40009;
+}
+
+#heading3 {
+    color: #138808;
+}
+
+#skills {
+    color: #009900;
+}
+
+#heading4 {
+    color: #002D72;
+}
+
+#education {
+    border-color: #002D72;
+}
+
+th, td {
+    padding: 8px;
+    text-align: center;
+}
+
+#education th {
+    border-color: #002D72;
+    color: #004687;
+}
+
+#education td {
+    border-color: #002D72;
+    color: #0071c5;
+}
+
+#heading5 {
+    color: #800060;
+}
+
+#contact {
+    border-color: #800060;
+}
+
+#contact th {
+    border-color: #800060;
+    color: #a7007d;
+}
+
+#contact td {
+    border-color: #800060;
+    color: #e710b1;
+}
+
+#heading6 {
+    color: #F06105;
+}
+
+#message {
+    border: 2px solid #F06105;
+    border-radius: 5px;
+}
+
+#message {
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+#button {
+    color: #138808;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: whitesmoke;
+    border: 2px solid #138808;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+#button:hover {
+    color: whitesmoke;
+    background-color: #138808;
+    font-weight: normal;
+}
